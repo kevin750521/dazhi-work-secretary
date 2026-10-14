@@ -1,0 +1,1 @@
+{"version":2,"functions":{"api/secure.js":{"includeFiles":"private/**"}},"rewrites":[{"source":"/(.*)","destination":"/api/secure"}]}

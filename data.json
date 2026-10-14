@@ -1,0 +1,672 @@
+{
+  "events": [
+    {
+      "title": "2026年第十四屆中信盃黑豹旗全國高中棒球大賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "棒球｜已報名",
+      "url": "https://drive.google.com/file/d/1pzF27uqQvdIgJcL-pLgZRUgqiWf_J0I3/view",
+      "raw": "115/09/20 18:00",
+      "date": "2026-09-20",
+      "time": "18:00"
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校擊劍錦標賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "擊劍｜已報名",
+      "url": "https://drive.google.com/file/d/11WOPUkuJDX2p2we14j-tZgbHOJFJxFul/view",
+      "raw": "115/09/21 16:00",
+      "date": "2026-09-21",
+      "time": "16:00"
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校排球錦標賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "排球｜已報名",
+      "url": "https://drive.google.com/file/d/106vzGXV4aFlu-O9JRcJHtbOU4mGcMSsq/view",
+      "raw": "115/10/02 16:00",
+      "date": "2026-10-02",
+      "time": "16:00"
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校籃球錦標賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "籃球｜已報名",
+      "url": "https://drive.google.com/file/d/1_ksrkEbZg9CPzWS2G8efhMbVFxnFjBK9/view",
+      "raw": "115/10/06 16:00",
+      "date": "2026-10-06",
+      "time": "16:00"
+    },
+    {
+      "title": "中華民國115年度全國中正盃空手道錦標賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "空手道｜已報名",
+      "url": "https://drive.google.com/file/d/1kdiiSofB4wLkOZFcBp8LJX8Bzg0Lop5t/view",
+      "raw": "115/10/12 23:00",
+      "date": "2026-10-12",
+      "time": "23:00"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "",
+      "title": "第一次段考",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "title": "臺北市115中正盃中等學校網球錦標賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "網球｜未報名",
+      "url": "https://drive.google.com/drive/folders/16iBWHC9ilYKB442HuBessa37hWwNe-zm",
+      "raw": "115/10/14 17:00",
+      "date": "2026-10-14",
+      "time": "17:00"
+    },
+    {
+      "date": "2026-10-15",
+      "time": "",
+      "title": "第一次段考",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-16",
+      "time": "",
+      "title": "3-4國中單項決",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-16",
+      "time": "",
+      "title": "5-6高中單項決",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-17",
+      "time": "",
+      "title": "統一考試",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-17",
+      "time": "",
+      "title": "高中英文",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-19",
+      "time": "",
+      "title": "國七健康檢查",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-20",
+      "time": "",
+      "title": "高一健康檢查",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校羽球錦標賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "羽球｜未報名",
+      "url": "https://drive.google.com/file/d/1FWvl4sj3Q7Wq4bfy4CJTf_X1Su-U1GHl/view",
+      "raw": "115/10/20 16:00",
+      "date": "2026-10-20",
+      "time": "16:00"
+    },
+    {
+      "date": "2026-10-21",
+      "time": "",
+      "title": "高一拔河預賽",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-22",
+      "time": "",
+      "title": "1-2國中單項決",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-22",
+      "time": "",
+      "title": "3-4高中單項決",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-22",
+      "time": "",
+      "title": "單項雨備",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-23",
+      "time": "",
+      "title": "3-4國中接力預",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-23",
+      "time": "",
+      "title": "5-6高中接力預",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校網球錦標賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "網球｜未報名",
+      "url": "https://drive.google.com/file/d/1PcSsn3YOqx8d7AkapGTtXW9YLZ9OK03L/view",
+      "raw": "0115/10/23 16:00",
+      "date": "2026-10-23",
+      "time": "16:00"
+    },
+    {
+      "title": "115學年度全國中等學校棒球聯賽 (軟式組)",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "棒球｜未報名",
+      "url": "https://drive.google.com/file/d/1wZeogENyafl_g6jOj3SJYSkujpey9SgJ/view",
+      "raw": "115/10/25 18:00",
+      "date": "2026-10-25",
+      "time": "18:00"
+    },
+    {
+      "date": "2026-10-26",
+      "time": "",
+      "title": "光復節補假",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-27",
+      "time": "",
+      "title": "高一拔河八強",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-28",
+      "time": "",
+      "title": "(本位課程時間)",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-28",
+      "time": "",
+      "title": "國七大鵬操",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-28",
+      "time": "",
+      "title": "高一拔河四強",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-28",
+      "time": "",
+      "title": "高三模考",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "title": "115學年度高中籃球乙級聯賽臺北市預賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "籃球｜未報名",
+      "url": "https://drive.google.com/file/d/1ro-kmzTkV6XFafHQumjnH_P9-ixFqIAj/view",
+      "raw": "115/10/28 17:00",
+      "date": "2026-10-28",
+      "time": "17:00"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "",
+      "title": "高一拔河冠亞",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-29",
+      "time": "",
+      "title": "高三模考",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-30",
+      "time": "",
+      "title": "國八啦啦舞",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-10-30",
+      "time": "",
+      "title": "高中班際舞",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校11人制足球錦標賽",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "足球｜未報名",
+      "url": "https://drive.google.com/file/d/19pnbrItBu6NXdFCwwwl6FS4pNHB_sSex/view",
+      "raw": "115/10/30 16:00",
+      "date": "2026-10-30",
+      "time": "16:00"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "",
+      "title": "大鵬操練習",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-11-03",
+      "time": "",
+      "title": "12國中34高中",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-11-03",
+      "time": "",
+      "title": "大鵬操練習",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-11-03",
+      "time": "",
+      "title": "接力雨備1",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-11-04",
+      "time": "",
+      "title": "大鵬操練習",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-11-05",
+      "time": "",
+      "title": "12國中34高中",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-11-05",
+      "time": "",
+      "title": "大鵬操練習",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-11-05",
+      "time": "",
+      "title": "接力雨備2",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "title": "115學年度教育部中小學女子壘球聯賽 (高中組/國中組)",
+      "kind": "報名",
+      "source": "賽事報名掌控清單",
+      "note": "壘球｜不報名",
+      "url": "https://drive.google.com/drive/folders/16iBWHC9ilYKB442HuBessa37hWwNe-zm",
+      "raw": "115/11/05 17:00",
+      "date": "2026-11-05",
+      "time": "17:00"
+    },
+    {
+      "date": "2026-11-06",
+      "time": "",
+      "title": "大鵬操練習",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-11-06",
+      "time": "",
+      "title": "校慶預演",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    },
+    {
+      "date": "2026-11-07",
+      "time": "",
+      "title": "校慶",
+      "kind": "校慶",
+      "source": "校慶行事曆／115",
+      "note": ""
+    }
+  ],
+  "pending": [
+    {
+      "title": "臺北市115學年度教育盃中等學校籃球錦標賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "籃球",
+      "raw": "115/10/19～11/06",
+      "url": "https://drive.google.com/file/d/1_ksrkEbZg9CPzWS2G8efhMbVFxnFjBK9/view"
+    },
+    {
+      "title": "臺北市115中正盃中等學校網球錦標賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "網球",
+      "raw": "115/11/02～11/06",
+      "url": "https://drive.google.com/drive/folders/16iBWHC9ilYKB442HuBessa37hWwNe-zm"
+    },
+    {
+      "title": "中華民國115年度全國中正盃空手道錦標賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "空手道",
+      "raw": "115/11/06～11/08",
+      "url": "https://drive.google.com/file/d/1kdiiSofB4wLkOZFcBp8LJX8Bzg0Lop5t/view"
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校網球錦標賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "網球",
+      "raw": "115/11/09～11/13",
+      "url": "https://drive.google.com/file/d/1PcSsn3YOqx8d7AkapGTtXW9YLZ9OK03L/view"
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校羽球錦標賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "羽球",
+      "raw": "115/11/16～11/20",
+      "url": "https://drive.google.com/file/d/1FWvl4sj3Q7Wq4bfy4CJTf_X1Su-U1GHl/view"
+    },
+    {
+      "title": "115學年度教育部中小學女子壘球聯賽 (高中組/國中組)",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "壘球",
+      "raw": "115/12/01～12/10",
+      "url": "https://drive.google.com/drive/folders/16iBWHC9ilYKB442HuBessa37hWwNe-zm"
+    },
+    {
+      "title": "115學年度全國中等學校棒球聯賽 (軟式組)",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "棒球",
+      "raw": "115/11/15～11/25",
+      "url": "https://drive.google.com/file/d/1wZeogENyafl_g6jOj3SJYSkujpey9SgJ/view"
+    },
+    {
+      "title": "115學年度高中籃球乙級聯賽臺北市預賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "籃球",
+      "raw": "115/11/23～12/02",
+      "url": "https://drive.google.com/file/d/1ro-kmzTkV6XFafHQumjnH_P9-ixFqIAj/view"
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校排球錦標賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "排球",
+      "raw": "115/10/26～10/30",
+      "url": "https://drive.google.com/file/d/106vzGXV4aFlu-O9JRcJHtbOU4mGcMSsq/view"
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校11人制足球錦標賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "足球",
+      "raw": "115/11/24～11/28",
+      "url": "https://drive.google.com/file/d/19pnbrItBu6NXdFCwwwl6FS4pNHB_sSex/view"
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校擊劍錦標賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "擊劍",
+      "raw": "115/10/22～10/25",
+      "url": "https://drive.google.com/file/d/11WOPUkuJDX2p2we14j-tZgbHOJFJxFul/view"
+    },
+    {
+      "title": "2026年第十四屆中信盃黑豹旗全國高中棒球大賽",
+      "kind": "比賽日期待確認",
+      "source": "賽事報名掌控清單",
+      "note": "棒球",
+      "raw": "115/10/24～11/29",
+      "url": "https://drive.google.com/file/d/1pzF27uqQvdIgJcL-pLgZRUgqiWf_J0I3/view"
+    },
+    {
+      "title": "2026年第十四屆中信盃黑豹旗全國高中棒球大賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "棒球｜官方籤表排定 (首輪 vs 松山工農)",
+      "url": "https://drive.google.com/file/d/1pzF27uqQvdIgJcL-pLgZRUgqiWf_J0I3/view",
+      "raw": "115/10/24～11/29"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜已抽籤排定",
+      "url": "https://drive.google.com/file/d/1_ksrkEbZg9CPzWS2G8efhMbVFxnFjBK9/view",
+      "raw": "115/10/19～11/06"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜已抽籤排定",
+      "url": "https://drive.google.com/file/d/1_ksrkEbZg9CPzWS2G8efhMbVFxnFjBK9/view",
+      "raw": "115/10/19～11/06"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜已抽籤排定",
+      "url": "https://drive.google.com/file/d/1_ksrkEbZg9CPzWS2G8efhMbVFxnFjBK9/view",
+      "raw": "115/10/19～11/06"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜已抽籤排定",
+      "url": "https://drive.google.com/file/d/1_ksrkEbZg9CPzWS2G8efhMbVFxnFjBK9/view",
+      "raw": "115/10/19～11/06"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜首輪籤位確定",
+      "url": "https://drive.google.com/file/d/1_ksrkEbZg9CPzWS2G8efhMbVFxnFjBK9/view",
+      "raw": "115/10/19～11/06"
+    },
+    {
+      "title": "115學年度教育盃排球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "排球｜分組排定",
+      "url": "https://drive.google.com/file/d/106vzGXV4aFlu-O9JRcJHtbOU4mGcMSsq/view",
+      "raw": "115/10/26～10/28"
+    },
+    {
+      "title": "115學年度教育盃排球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "排球｜分組排定",
+      "url": "https://drive.google.com/file/d/106vzGXV4aFlu-O9JRcJHtbOU4mGcMSsq/view",
+      "raw": "115/10/28～10/30"
+    },
+    {
+      "title": "115中正盃網球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "網球｜報名手續中",
+      "url": "https://drive.google.com/drive/folders/16iBWHC9ilYKB442HuBessa37hWwNe-zm",
+      "raw": "115/11/02～11/04"
+    },
+    {
+      "title": "115學年度教育盃網球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "網球｜備件報名中",
+      "url": "https://drive.google.com/file/d/1PcSsn3YOqx8d7AkapGTtXW9YLZ9OK03L/view",
+      "raw": "115/11/09～11/11"
+    },
+    {
+      "title": "115學年度教育盃羽球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "羽球｜報名作業中",
+      "url": "https://drive.google.com/file/d/1FWvl4sj3Q7Wq4bfy4CJTf_X1Su-U1GHl/view",
+      "raw": "115/11/16～11/18"
+    },
+    {
+      "title": "115學年度全國棒球聯賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "棒球｜名冊審核中",
+      "url": "https://drive.google.com/file/d/1wZeogENyafl_g6jOj3SJYSkujpey9SgJ/view",
+      "raw": "115/11/15～11/20"
+    },
+    {
+      "title": "115高中籃球乙級市預賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜報名籌備中",
+      "url": "https://drive.google.com/file/d/1ro-kmzTkV6XFafHQumjnH_P9-ixFqIAj/view",
+      "raw": "115/11/23～12/02"
+    },
+    {
+      "title": "115年度全國中正盃空手道錦標賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "空手道｜選手已確認報名 (抽籤中)",
+      "url": "https://drive.google.com/file/d/1kdiiSofB4wLkOZFcBp8LJX8Bzg0Lop5t/view",
+      "raw": "115/11/06～11/08"
+    },
+    {
+      "title": "臺北市115學年度教育盃中等學校擊劍錦標賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "擊劍｜報名已截止 (籤表排定中)",
+      "url": "https://drive.google.com/file/d/11WOPUkuJDX2p2we14j-tZgbHOJFJxFul/view",
+      "raw": "115/10/22～10/25"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜預賽排定 (4取2晉級，10/28 16:00 第二輪抽籤)",
+      "url": "泰北高中（國男乙、高男乙預賽） 1012.pdf",
+      "raw": "115/10/21(三)"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜預賽排定 (4取2晉級，10/28 16:00 第二輪抽籤)",
+      "url": "泰北高中（國男乙、高男乙預賽） 1012.pdf",
+      "raw": "115/10/24(六)"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜預賽排定 (4取2晉級，10/28 16:00 第二輪抽籤)",
+      "url": "泰北高中（國男乙、高男乙預賽） 1012.pdf",
+      "raw": "115/10/27(二)"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜預賽排定 (4取2晉級，10/28 16:00 第二輪抽籤)",
+      "url": "泰北高中（國男乙、高男乙預賽） 1012.pdf",
+      "raw": "115/10/18(日)"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜預賽排定 (4取2晉級，10/28 16:00 第二輪抽籤)",
+      "url": "泰北高中（國男乙、高男乙預賽） 1012.pdf",
+      "raw": "115/10/22(四)"
+    },
+    {
+      "title": "115學年度教育盃籃球賽",
+      "kind": "出賽",
+      "source": "出賽賽程與抽籤進度",
+      "note": "籃球｜預賽排定 (4取2晉級，10/28 16:00 第二輪抽籤)",
+      "url": "泰北高中（國男乙、高男乙預賽） 1012.pdf",
+      "raw": "115/10/25(日)"
+    }
+  ],
+  "updated": "2026-10-14",
+  "sourceNote": "目前為來源快照；啟用同步後以 data.json 發布時間為準"
+}
