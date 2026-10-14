@@ -401,13 +401,64 @@
       "note": ""
     },
     {
-      "title": "115學年度教育盃籃球賽",
+      "date": "2026-10-18",
+      "time": "14:20",
+      "title": "教育盃籃球｜國男C｜古亭國中 vs 大直高中",
       "kind": "出賽",
-      "source": "出賽賽程與抽籤進度",
-      "note": "籃球｜預賽排定 (4取2晉級，10/28 16:00 第二輪抽籤)",
-      "url": "泰北高中（國男乙、高男乙預賽） 1012.pdf",
-      "raw": "115/10/24(六)",
-      "date": "2026-10-24"
+      "source": "泰北高中正式賽程PDF（已核對）",
+      "note": "第6場｜臺北市泰北國際雙語學校",
+      "url": "https://drive.google.com/file/d/1lrpNWC2XAUywhWmrGtgLGAoPm_j906iw/view",
+      "raw": "115/10/18 14:20"
+    },
+    {
+      "date": "2026-10-21",
+      "time": "09:00",
+      "title": "教育盃籃球｜高男F｜大直高中 vs 麗山高中",
+      "kind": "出賽",
+      "source": "泰北高中正式賽程PDF（已核對）",
+      "note": "第27場｜臺北市泰北國際雙語學校",
+      "url": "https://drive.google.com/file/d/1lrpNWC2XAUywhWmrGtgLGAoPm_j906iw/view",
+      "raw": "115/10/21 09:00"
+    },
+    {
+      "date": "2026-10-22",
+      "time": "12:30",
+      "title": "教育盃籃球｜國男C｜大直高中 vs 介壽國中",
+      "kind": "出賽",
+      "source": "泰北高中正式賽程PDF（已核對）",
+      "note": "第38場｜臺北市泰北國際雙語學校",
+      "url": "https://drive.google.com/file/d/1lrpNWC2XAUywhWmrGtgLGAoPm_j906iw/view",
+      "raw": "115/10/22 12:30"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "08:30",
+      "title": "教育盃籃球｜高男F｜松山家商 vs 大直高中",
+      "kind": "出賽",
+      "source": "泰北高中正式賽程PDF（已核對）",
+      "note": "第43場｜臺北市泰北國際雙語學校",
+      "url": "https://drive.google.com/file/d/1lrpNWC2XAUywhWmrGtgLGAoPm_j906iw/view",
+      "raw": "115/10/24 08:30"
+    },
+    {
+      "date": "2026-10-25",
+      "time": "13:10",
+      "title": "教育盃籃球｜國男C｜達人中學 vs 大直高中",
+      "kind": "出賽",
+      "source": "泰北高中正式賽程PDF（已核對）",
+      "note": "第57場｜臺北市泰北國際雙語學校",
+      "url": "https://drive.google.com/file/d/1lrpNWC2XAUywhWmrGtgLGAoPm_j906iw/view",
+      "raw": "115/10/25 13:10"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "17:10",
+      "title": "教育盃籃球｜高男F｜松山工農 vs 大直高中",
+      "kind": "出賽",
+      "source": "泰北高中正式賽程PDF（已核對）",
+      "note": "第80場｜臺北市泰北國際雙語學校",
+      "url": "https://drive.google.com/file/d/1lrpNWC2XAUywhWmrGtgLGAoPm_j906iw/view",
+      "raw": "115/10/27 17:10"
     }
   ],
   "pending": [
