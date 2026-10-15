@@ -1,0 +1,31 @@
+name: Fix delete click immediately
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-delete-click.yml'
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Make delete immediate and reliable
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('index.html')
+          s=p.read_text()
+          old="else if(b.dataset.delete!==undefined){if(!confirm('確定刪除此行程？手動新增行程會從本裝置移除；正式匯入行程只會在本裝置移除顯示，原始文件不受影響。'))return;let original=sourceEvents.find(e=>eventId(e)===id);if(original){edits[id]={...(edits[id]||{}),hidden:true};saveEdits()}else{manualEvents=manualEvents.filter(e=>eventId(e)!==id);try{localStorage.setItem('dazhi-secretary-manual-v1',JSON.stringify(manualEvents));applyEdits();render()}catch(err){alert('刪除失敗：'+err.message)}}}"
+          new="else if(b.dataset.delete!==undefined){let original=sourceEvents.find(e=>eventId(e)===id);if(original){edits[id]={...(edits[id]||{}),hidden:true};saveEdits()}else{manualEvents=manualEvents.filter(e=>eventId(e)!==id);try{localStorage.setItem('dazhi-secretary-manual-v1',JSON.stringify(manualEvents));applyEdits();render()}catch(err){console.error('刪除失敗',err)}}}"
+          if old not in s:
+              raise SystemExit('target delete handler not found')
+          p.write_text(s.replace(old,new,1))
+          PY
+      - name: Commit fix
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Make delete button immediate and reliable" || exit 0
+          git push
