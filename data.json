@@ -379,6 +379,66 @@
       "note": "內湖高中 第四場地",
       "url": "https://drive.google.com/file/d/1OR97vdJ0Wcr148m_eGpetPL-87LpO4Wr/view",
       "raw": "115/10/25 15:30"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "12:30",
+      "title": "教育盃籃球｜國女乙預B｜再興中學 vs 大直高中",
+      "kind": "出賽",
+      "source": "興雅國中正式賽程PDF（已核對）",
+      "note": "第4場｜興雅國中（臺北市信義區松德路168巷15號）",
+      "url": "https://drive.google.com/file/d/17KRMJ3eGu63T4tWW-FQh_w-KaoSoAEkt/view",
+      "raw": "115/10/27 12:30"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "14:50",
+      "title": "教育盃籃球｜高女乙預B｜育成高中 vs 大直高中",
+      "kind": "出賽",
+      "source": "興雅國中正式賽程PDF（已核對）",
+      "note": "第2場｜興雅國中（臺北市信義區松德路168巷15號）",
+      "url": "https://drive.google.com/file/d/17KRMJ3eGu63T4tWW-FQh_w-KaoSoAEkt/view",
+      "raw": "115/10/27 14:50"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "09:00",
+      "title": "教育盃籃球｜國女乙預B｜大直高中 vs 景美國中",
+      "kind": "出賽",
+      "source": "興雅國中正式賽程PDF（已核對）",
+      "note": "第5場｜興雅國中（臺北市信義區松德路168巷15號）",
+      "url": "https://drive.google.com/file/d/17KRMJ3eGu63T4tWW-FQh_w-KaoSoAEkt/view",
+      "raw": "115/10/28 09:00"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "12:30",
+      "title": "教育盃籃球｜國女乙預B｜中正國中 vs 大直高中",
+      "kind": "出賽",
+      "source": "興雅國中正式賽程PDF（已核對）",
+      "note": "第12場｜興雅國中（臺北市信義區松德路168巷15號）",
+      "url": "https://drive.google.com/file/d/17KRMJ3eGu63T4tWW-FQh_w-KaoSoAEkt/view",
+      "raw": "115/10/29 12:30"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "11:20",
+      "title": "教育盃籃球｜高女乙預B｜大直高中 vs 華江高中",
+      "kind": "出賽",
+      "source": "興雅國中正式賽程PDF（已核對）",
+      "note": "第6場｜興雅國中（臺北市信義區松德路168巷15號）",
+      "url": "https://drive.google.com/file/d/17KRMJ3eGu63T4tWW-FQh_w-KaoSoAEkt/view",
+      "raw": "115/10/30 11:20"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "11:20",
+      "title": "教育盃籃球｜高女乙預B｜大直高中 vs 泰北高中",
+      "kind": "出賽",
+      "source": "興雅國中正式賽程PDF（已核對）",
+      "note": "第9場｜興雅國中（臺北市信義區松德路168巷15號）",
+      "url": "https://drive.google.com/file/d/17KRMJ3eGu63T4tWW-FQh_w-KaoSoAEkt/view",
+      "raw": "115/10/31 11:20"
     }
   ],
   "pending": [
@@ -391,6 +451,6 @@
       "url": "https://drive.google.com/file/d/1ro-kmzTkV6XFafHQumjnH_P9-ixFqIAj/view"
     }
   ],
-  "updated": "2026-10-14（Google Drive 文件人工核對；非即時同步）",
+  "updated": "2026-10-15（Google Drive 文件人工核對；非即時同步）",
   "sourceNote": "運動賽事僅以指定 Google Drive 資料夾中的文件為準；已核對的單場賽程入月曆，其他未核實文件待後續判讀。"
 }
