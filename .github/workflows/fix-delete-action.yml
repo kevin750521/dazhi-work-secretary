@@ -1,0 +1,57 @@
+name: Fix delete action safely
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fix-delete-action.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Patch delete action without id error
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+
+          old_apply = "function applyEdits(){db.events=sourceEvents.filter(e=>!edits[eventId(e)]?.hidden).map(e=>({...e,...(edits[eventId(e)]||{})})).filter(valid).concat(manualEvents.filter(valid))}"
+          new_apply = "function applyEdits(){db.events=sourceEvents.filter(e=>!edits[eventId(e)]?.hidden).map(e=>({...e,...(edits[eventId(e)]||{}),_originId:eventId(e)})).filter(valid).concat(manualEvents.filter(valid))}"
+          if old_apply not in s:
+              raise SystemExit('applyEdits target not found')
+          s = s.replace(old_apply, new_apply, 1)
+
+          start = s.find('function item(e){')
+          end = s.find('function dayEvents()', start)
+          if start < 0 or end < 0:
+              raise SystemExit('item function target not found')
+          new_item = '''function item(e){let id=e._originId||eventId(e);return `<article class="agenda ${kindClass(e)}"><h3>${esc(e.title)}</h3><p>${e.time?'⏰ '+esc(e.time):'⏱ 時間待確認'} · ${esc(e.kind)} · ${esc(e.source)}</p>${e.note?`<p>${esc(e.note)}</p>`:''}<div class="edittools"><button type="button" data-edit="${esc(id)}">✏️ 編輯</button>${edits[id]?`<button type="button" data-reset="${esc(id)}">↩ 還原</button>`:''}<button type="button" data-hide="${esc(id)}">隱藏</button><button type="button" data-delete="${esc(id)}" style="color:#a32626;border-color:#e8b7b7">刪除</button></div>${/^https:\/\//.test(e.url||'')?`<a target="_blank" rel="noopener" href="${esc(e.url)}">查看來源 ↗</a>`:''}</article>`}'''
+          s = s[:start] + new_item + s[end:]
+
+          old_listener_start = s.find("document.addEventListener('click',ev=>{let b=ev.target.closest('[data-edit],[data-reset],[data-hide]')")
+          old_listener_end = s.find('});load();', old_listener_start)
+          if old_listener_start < 0 or old_listener_end < 0:
+              raise SystemExit('click listener target not found')
+          new_listener = """document.addEventListener('click',ev=>{let b=ev.target.closest('[data-edit],[data-reset],[data-hide],[data-delete]');if(!b)return;let id=b.dataset.edit||b.dataset.reset||b.dataset.hide||b.dataset.delete;if(b.dataset.edit!==undefined){editEvent(id)}else if(b.dataset.reset!==undefined){delete edits[id];saveEdits()}else if(b.dataset.hide!==undefined){if(!confirm('確定在本裝置隱藏此行程？可透過清除本機修正恢復。'))return;edits[id]={...(edits[id]||{}),hidden:true};saveEdits()}else if(b.dataset.delete!==undefined){if(!confirm('確定刪除此行程？手動新增行程會從本裝置移除；正式匯入行程只會在本裝置移除顯示，原始文件不受影響。'))return;let original=sourceEvents.find(e=>eventId(e)===id);if(original){edits[id]={...(edits[id]||{}),hidden:true};saveEdits()}else{manualEvents=manualEvents.filter(e=>eventId(e)!==id);try{localStorage.setItem('dazhi-secretary-manual-v1',JSON.stringify(manualEvents));applyEdits();render()}catch(err){alert('刪除失敗：'+err.message)}}}})"""
+          s = s[:old_listener_start] + new_listener + s[old_listener_end+2:]
+
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: Commit fix
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Fix delete action without undefined id"
+          git push
